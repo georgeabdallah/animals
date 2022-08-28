@@ -2,4 +2,4 @@ lion
 monkey 
 sanke 
 lion 
-tiger
+tige
